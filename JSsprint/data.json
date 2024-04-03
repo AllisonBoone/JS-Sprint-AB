@@ -1,0 +1,32 @@
+[
+    {"firstName": "Donald",
+     "age": 28,
+     "gender": "male",
+     "phoneNumber": "709-744-2468",
+     "married": false
+     },
+     {"firstName": "Clint",
+      "age": 22,
+      "gender": "male",
+      "phoneNumber": "709-734-0823",
+      "married": true
+      },
+      {"firstName": "John",
+      "age": 19,
+      "gender": "male",
+      "phoneNumber": "709-783-0485",
+      "married": false
+      },
+      {"firstName": "Ronald",
+      "age": 64,
+     "gender": "male",
+      "phoneNumber": "709-786-3748",
+      "married": true
+      },
+      {"firstName": "Jane",
+      "age": 88,
+      "gender": "female",
+      "phoneNumber": "709-764-4589",
+      "married": true
+      }
+]
